@@ -6,8 +6,10 @@ I have approached "refactoring" in the strict sense, so I needed to add some uni
 
 I have chosen Backstopjs as framework to perform visual regression tests.
 
-To install run: 
+To install run:
+
 npm install -g backstopjs
 
 To run the test:
+
 backstop test
