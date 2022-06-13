@@ -1,0 +1,23 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\backstop_default_backstop_test_index_0_document_0_tablet.png",
+        "test": "..\\bitmaps_test\\20220613-184753\\backstop_default_backstop_test_index_0_document_0_tablet.png",
+        "selector": "document",
+        "fileName": "backstop_default_backstop_test_index_0_document_0_tablet.png",
+        "label": "backstop test index",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://127.0.0.1:5501/index.html",
+        "referenceUrl": "",
+        "expect": 0,
+        "viewportLabel": "tablet",
+        "error": "Reference file not found C:\\Users\\droid\\OneDrive\\Documentos\\dev\\ironhack-css-specifity-exercise\\test\\backstop_data\\bitmaps_reference\\backstop_default_backstop_test_index_0_document_0_tablet.png"
+      },
+      "status": "fail"
+    }
+  ],
+  "id": "backstop_default"
+}
