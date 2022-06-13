@@ -1,14 +1,13 @@
 # ironhack-css-specifity-exercise
 
-Just for educational purposes, I just try to refactor the CSS as propose. Meaning 'refactoring' in strict sense, so I needed to add some unit testing before start modifying the code.
-I picked Backstopjs as a framework to perform visual regression testing
+For purely educational purposes, I have complicated the proposed exercise a bit by trying to refactor the CSS as proposed. 
 
-To install execute:
+I have approached "refactoring" in the strict sense, so I needed to add some unit tests before starting to modify the code. 
+
+I have chosen Backstopjs as framework to perform visual regression tests.
+
+To install run: 
 npm install -g backstopjs
 
 To run the test:
 backstop test
-
-
-For more information about Backstopjs see:
-https://github.com/garris/BackstopJS/blob/master/README.md#local-installation
