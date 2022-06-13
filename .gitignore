@@ -349,5 +349,7 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 
-backstop_data/bitmaps_test
-backstop_data/html_report
+**/backstop_data/bitmaps_test/
+**/backstop_data/html_report/
+
+package-lock.json
